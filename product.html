@@ -18,19 +18,7 @@
     <link rel="stylesheet" href="css/main.min.css" />
     <link rel="stylesheet" href="css/gainseestyle.css" />
 
-    <script src="js/main.min.js"></script>
 
-    <!--[if lt IE 9]>
-    <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <script src="js/webplate.min.js"></script>
-    <script src="js/script.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/headroom.min.js"></script>
-    <script src="js/script.js"></script>
-    <script async src="js/analytics.js"></script>
-    <script src="js/w3data.js"></script>
 
 </head>
 
@@ -40,18 +28,6 @@
 </head>
 
 <body ryt12934="1">
-<script>
-    $(document).ready(function(){
-        w3IncludeHTML();
-        $("button").click(function(){
-            $(".navbar-inverse").toggleClass("navbar-bg");
-        });
-        $(".news-item").click(function(){
-            window.location=$(this).find("a").attr("href");
-            return false;
-        });
-    });
-</script>
 
 <header class="stripe full">
 
@@ -125,6 +101,31 @@
 
 <footer class="footer" w3-include-html="footer.html">
 </footer>
+<script src="js/main.min.js"></script>
+
+<!--[if lt IE 9]>
+<script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script src="js/webplate.min.js"></script>
+<script src="js/script.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/headroom.min.js"></script>
+<script src="js/script.js"></script>
+<script async src="js/analytics.js"></script>
+<script src="js/w3data.js"></script>
+<script>
+    $(document).ready(function(){
+        w3IncludeHTML();
+        $("button").click(function(){
+            $(".navbar-inverse").toggleClass("navbar-bg");
+        });
+        $(".news-item").click(function(){
+            window.location=$(this).find("a").attr("href");
+            return false;
+        });
+    });
+</script>
 
 <script src="js/jquery.lazyload.js"></script>
 <script type="text/javascript">

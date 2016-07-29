@@ -25,11 +25,18 @@
     <script src="js/headroom.min.js"></script>
     <script src="js/script.js"></script>
     <script async src="js/analytics.js"></script>
+    <script src="http://www.w3schools.com/lib/w3data.js"></script>
+
+</head>
+
+<nav  class="absolute" w3-include-html="header.html">
+</nav>
 </head>
 
 <body ryt12934="1">
 <script>
     $(document).ready(function () {
+        w3IncludeHTML();
         $("button").click(function () {
             $(".navbar-inverse").toggleClass("navbar-bg");
         });
@@ -39,36 +46,6 @@
         });
     });
 </script>
-<nav class="absolute">
-    <div >
-        <nav class="navbar navbar-inverse navbar-static-top ">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand logoaa" href="index.html">
-                        VI
-                    </a>
-                </div>
-                <div id="navbar" class="navbar-collapse collapse daohang">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a href='index.html'>首页</a></li>
-                        <li><a href='product.html' rel='dropmenu1'><span>案例</span></a></li>
-                        <li><a href='about.html' ><span>关于</span></a></li>
-                        <li><a href='contact.html' ><span>联系</span></a></li>
-                    </ul>
-                </div>
-                <div class="navbar-iphone">
-                    <span>010</span>-8888888
-                </div>
-            </div>
-        </nav>
-    </div></nav>
-
 <header class="stripe full">
 
     <div class="contain">
@@ -188,31 +165,7 @@
     <img src="img/about/about1.jpg" width="100%" height="auto" data-show="on-scroll"/>
     <img src="http://www.gainsee.com/images/about2.jpg" width="100%" height="auto" data-show="on-scroll"/>
 </div>
-<footer class="footer">
-
-    <div class="nav">
-        <ul id="menu">
-            <li>果实品牌设计有限公司</li>
-            <li>山东省 济南市 历城区 辛甸中路68号</li>
-            <li>品牌垂询电话: 010-8888888</li>
-            <li>MAIL: guoshi@qq.com  </li>
-            <li>QQ: 123456</li>
-        </ul>
-    </div>
-    <div class="info">
-        <ul id="social-menu">
-
-
-            <li ><a href="#"  target="_blank" rel="external">f</a></li>
-            <li ><a href="#" target="_blank" rel="external">g</a></li>
-            <li ><a href="#" target="_blank" rel="external">h</a></li>
-            <li ><a href="#"  rel="external">U</a></li>
-
-
-        </ul>
-        <p class="copyright"><a href="#">Copyright © </a><br />Jinan guoshi Branding design Co,.Ltd.<br>
-            All rights reserved. <br>
-            鲁ICP备15002063号-1 </p>
+<footer class="footer" w3-include-html="footer.html">
 </footer>
 <script src="js/jquery.smoove.js"></script>
 <script>$('.moo').smoove({offset: '10%', moveY: '15%'});</script>

@@ -1,4 +1,4 @@
-﻿/* Demo site CSS. Not mobile first, not semantic, not optimized, made for 20 minutes, mess */
+﻿﻿/* Demo site CSS. Not mobile first, not semantic, not optimized, made for 20 minutes, mess */
 html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, fieldset, legend, label, table, header, footer, nav, section, figure {
   margin: 0;
   padding: 0; 
@@ -888,6 +888,7 @@ a.demo-gallery__img--main {
     line-height: 26px; 
   }
 
+
 }
 
 @media screen and (max-width: 700px) {
@@ -923,6 +924,7 @@ a.demo-gallery__img--main {
 }
 */
 
+
 @media screen and (max-width: 450px) {
   .demo-gallery a {
      width: 100%;
@@ -931,6 +933,7 @@ a.demo-gallery__img--main {
     width: 100%;
   }
 }
+
 
 @media screen and (max-width: 350px) {
   .demo-gallery a {

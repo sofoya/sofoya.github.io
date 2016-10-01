@@ -2,55 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65fb5d30-a2c5-4788-b33b-4c2b76f95f53" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1603051Q625459.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1603051R6160-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1603051R9550-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-160309134I30-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16030G544460-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16030G933240-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16030GZ1570-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16030H010280-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16030H02A20-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16030Q000290-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16030QQ0290-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-160310102A30-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1603101536430-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1603101611380-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-160311162G2962.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-160312000135925.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-160316091453137.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16031G539490-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-160324003G70-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1603241H1390-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1603251TG70-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-16032Q410260-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-160414140S90-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1604191S6230-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli/1-1604211K2050-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140940.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140941.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140942-50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140942.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140943.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140944.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140945.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140946.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140947.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140948.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140950.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140951.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140953.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-160414140S90-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-1604141K040.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-1604191S6230-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/anli1/1-1604211K2050-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index/1-160309134I30-L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index/1-16030G544460-L.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/index/1-160519102031223.jpg" afterPath="$PROJECT_DIR$/img/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/product/K4S/9.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/product/product1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/product/product2.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.html" afterPath="$PROJECT_DIR$/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.html" afterPath="$PROJECT_DIR$/product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
     <ignored path="sofoya.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,16 +161,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -182,11 +196,11 @@
         <option value="$PROJECT_DIR$/js/jquery.smoove.js" />
         <option value="$PROJECT_DIR$/js/main.min.js" />
         <option value="$PROJECT_DIR$/js/webplate.min.js" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -199,7 +213,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="789" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -254,6 +268,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sofoya" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sofoya" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -286,61 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sofoya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sofoya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sofoya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sofoya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sofoya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sofoya" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,15 +332,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/img/index" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/product" />
       <recent name="$PROJECT_DIR$/img/index" />
       <recent name="$PROJECT_DIR$/img/about" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/product" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/index" />
     </key>
   </component>
   <component name="RunManager">
@@ -427,6 +402,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="65fb5d30-a2c5-4788-b33b-4c2b76f95f53" name="Default" comment="" />
@@ -436,17 +414,19 @@
       <updated>1469796810968</updated>
       <workItem from="1469796812453" duration="7490000" />
       <workItem from="1469805427886" duration="2797000" />
+      <workItem from="1474262472372" duration="4000" />
+      <workItem from="1475318774519" duration="990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12081000" />
+    <option name="totallyTimeSpent" value="13254000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="789" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="790" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -458,11 +438,21 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -472,26 +462,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/w3data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/analytics.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -508,31 +482,15 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/anli1/1-1604141K040.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/anli1/1-1604141K040.jpg" />
     <entry file="file://$PROJECT_DIR$/img/about/about2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/anli/1-16030G544460-L.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/anli/1-16030G933240-L.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/anli/1-16030H02A20-L.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/anli/1-16030G544460-L.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/anli/1-16030G933240-L.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/anli/1-16030H02A20-L.jpg" />
     <entry file="file://$PROJECT_DIR$/anli1.html" />
     <entry file="file://$PROJECT_DIR$/service.html" />
     <entry file="file://$PROJECT_DIR$/CNAME">
@@ -546,15 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="83037" selection-start-line="0" selection-start-column="83037" selection-end-line="0" selection-end-column="83037" />
-          <folding>
-            <element signature="e#24594#24792#1" expanded="false" />
-            <element signature="e#39672#39870#1" expanded="false" />
-            <element signature="e#40475#40665#1" expanded="false" />
-            <element signature="e#46828#47042#1" expanded="false" />
-            <element signature="e#47793#47987#1" expanded="false" />
-            <element signature="e#48091#48385#1" expanded="false" />
-            <element signature="e#52071#63689#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="118490" selection-start-line="0" selection-start-column="118490" selection-end-line="0" selection-end-column="118490" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="0" column="81430" selection-start-line="0" selection-start-column="81430" selection-end-line="0" selection-end-column="81430" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1498" selection-start-line="0" selection-start-column="1498" selection-end-line="0" selection-end-column="1498" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4145" selection-start-line="0" selection-start-column="4145" selection-end-line="0" selection-end-column="4145" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2275" selection-start-line="0" selection-start-column="2275" selection-end-line="0" selection-end-column="2275" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8915" selection-start-line="0" selection-start-column="8915" selection-end-line="0" selection-end-column="8915" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9225" selection-start-line="0" selection-start-column="9225" selection-end-line="0" selection-end-column="9225" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6568">
           <caret line="699" column="1" selection-start-line="699" selection-start-column="1" selection-end-line="699" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="5" column="4659" selection-start-line="5" selection-start-column="4659" selection-end-line="5" selection-end-column="4659" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3300" selection-start-line="0" selection-start-column="3300" selection-end-line="0" selection-end-column="3300" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4692" selection-start-line="4" selection-start-column="4692" selection-end-line="4" selection-end-column="4692" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,10 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#4377#4416#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,15 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
           <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,27 +670,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/index/1-16030G544460-L.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/index/1-160309134I30-L.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/index/1-16030G544460-L.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/index/1-160309134I30-L.jpg" />
     <entry file="file://$PROJECT_DIR$/img/background.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -784,6 +688,32 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/product/product2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/product/product1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

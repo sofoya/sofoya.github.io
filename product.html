@@ -42,49 +42,28 @@
 
 
 </header>
-<div class="stripe">
+<div class="stripe" style="padding:100px">
 
-    <div class="container anchor-scroll">
-        <div class="row featurette_anli">
-            <div class="col-md-12 anlileft">
-            </div>
+
+    <ul id="myTab" class="nav nav-tabs">
+        <li class="active">
+            <a href="#K4" data-toggle="tab">
+                K4系列
+            </a>
+        </li>
+        <li><a href="#K4S" data-toggle="tab">K4S系列</a></li>
+
+    </ul>
+    <div id="myTabContent" class="tab-content">
+        <div class="tab-pane fade in active" id="K4">
+            <!--js插入图片-->
+        </div>
+        <div class="tab-pane fade" id="K4S">
+            <!--js插入图片-->
         </div>
     </div>
-
-
-    <div class="container-fluid" style="margin-top: 20px">
-
-        <section class="work-list" >
-            <div class="inner">
-
-                <article class="work-item" data-show="on-scroll" >
-                    <picture>
-                        <img src='img/index/product1.png'>
-                    </picture>
-                </article>
-
-            </div>
-        </section>
-        <section class="work-list" >
-            <div class="inner">
-
-                <article class="work-item " data-show="on-scroll" >
-                    <picture>
-                        <img src='img/index/product2.png'>
-                    </picture>
-                </article>
-
-            </div>
-        </section>
-
-    </div>
-
-</div>
-</section>
-
 </div>
 
-</div>
 
 <footer class="footer" w3-include-html="footer.html">
 </footer>
@@ -122,4 +101,18 @@
         });
     });
 </script>
+
+<script type="text/javascript">
+    for( var i = 1; i <= 31; i++) {
+        $('#K4').append("<img src='img/product/K4/"+i+".jpg' style='height: 300px; width: 300px; margin-bottom: 30px'>");
+    }
+
+    for( var i = 1; i <= 38; i++) {
+        $('#K4S').append("<img src='img/product/K4S/"+i+".jpg' style='height: 300px; width: 300px; margin-bottom: 30px'>");
+    }
+</script>
+
+
+
+
 </body></html>

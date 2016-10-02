@@ -38,7 +38,7 @@
         <a href="javascript:;" class="anchor scroll-down fadeInDown"></a>
     </div>
 
-    <div class="bg-image" style="background-image:url(img/background.png)"></div>
+    <div class="bg-image" style="background-image:url(img/bg6.jpg)"></div>
 
 
 </header>
@@ -52,6 +52,7 @@
             </a>
         </li>
         <li><a href="#K4S" data-toggle="tab">K4S系列</a></li>
+        <li><a href="#zonghe" data-toggle="tab">综合系列</a></li>
 
     </ul>
     <div id="myTabContent" class="tab-content">
@@ -59,6 +60,9 @@
             <!--js插入图片-->
         </div>
         <div class="tab-pane fade" id="K4S">
+            <!--js插入图片-->
+        </div>
+        <div class="tab-pane fade" id="zonghe">
             <!--js插入图片-->
         </div>
     </div>
@@ -103,12 +107,19 @@
 </script>
 
 <script type="text/javascript">
-    for( var i = 0; i <= 30; i++) {
-        $('#K4').append("<img src='img/product/K4/"+i+".jpg' style='height: 200px; width: 200px; margin-bottom: 30px'>");
+    for( var i = 1; i <= 31; i++) {
+        $('#K4').append("<img src='img/product/K4/"+i+".jpg' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
     }
 
-    for( var i = 0; i <= 27; i++) {
-        $('#K4S').append("<img src='img/product/K4S/"+i+".jpg' style='height: 200px; width: 200px; margin-bottom: 30px'>");
+    for( var i = 1; i <= 28; i++) {
+        $('#K4S').append("<img src='img/product/K4S/"+i+".jpg' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
+    }
+
+    for( var i = 1; i <= 9; i++) {
+        if (i==6){
+            continue;
+        }
+        $('#zonghe').append("<img src='img/product/zonghe/"+i+".png' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
     }
 </script>
 

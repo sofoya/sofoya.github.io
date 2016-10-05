@@ -47,16 +47,20 @@
 
     <ul id="myTab" class="nav nav-tabs">
         <li class="active">
-            <a href="#K4" data-toggle="tab">
-                K4系列
+            <a href="#K1" data-toggle="tab">
+                K1系列
             </a>
         </li>
+        <li><a href="#K4" data-toggle="tab">K4系列</a></li>
         <li><a href="#K4S" data-toggle="tab">K4S系列</a></li>
         <li><a href="#zonghe" data-toggle="tab">综合系列</a></li>
 
     </ul>
     <div id="myTabContent" class="tab-content">
-        <div class="tab-pane fade in active" id="K4">
+        <div class="tab-pane fade in active" id="K1">
+            <!--js插入图片-->
+        </div>
+        <div class="tab-pane fade" id="K4">
             <!--js插入图片-->
         </div>
         <div class="tab-pane fade" id="K4S">
@@ -107,6 +111,9 @@
 </script>
 
 <script type="text/javascript">
+    for( var i = 1; i <= 22; i++) {
+        $('#K1').append("<img src='img/product/K1/"+i+".png' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
+    }
     for( var i = 1; i <= 31; i++) {
         $('#K4').append("<img src='img/product/K4/"+i+".jpg' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
     }

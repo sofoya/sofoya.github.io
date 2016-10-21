@@ -53,6 +53,8 @@
         </li>
         <li><a href="#K4" data-toggle="tab">K4系列</a></li>
         <li><a href="#K4S" data-toggle="tab">K4S系列</a></li>
+        <li><a href="#K5" data-toggle="tab">K5系列</a></li>
+        <li><a href="#K6" data-toggle="tab">K6系列</a></li>
         <li><a href="#zonghe" data-toggle="tab">综合系列</a></li>
 
     </ul>
@@ -66,9 +68,16 @@
         <div class="tab-pane fade" id="K4S">
             <!--js插入图片-->
         </div>
+        <div class="tab-pane fade" id="K5">
+            <!--js插入图片-->
+        </div>
+        <div class="tab-pane fade" id="K6">
+            <!--js插入图片-->
+        </div>
         <div class="tab-pane fade" id="zonghe">
             <!--js插入图片-->
         </div>
+
     </div>
 </div>
 
@@ -118,14 +127,20 @@
         $('#K4').append("<img src='img/product/K4/"+i+".jpg' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
     }
 
-    for( var i = 1; i <= 28; i++) {
+    for( var i = 1; i <= 31; i++) {
         $('#K4S').append("<img src='img/product/K4S/"+i+".jpg' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
     }
 
-    for( var i = 1; i <= 9; i++) {
-        if (i==6){
-            continue;
-        }
+    for( var i = 1; i <= 29; i++) {
+        $('#K5').append("<img src='img/product/K5/"+i+".png' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
+    }
+
+    for( var i = 1; i <= 29; i++) {
+        $('#K6').append("<img src='img/product/K6/"+i+".png' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
+    }
+
+
+    for( var i = 1; i <= 11; i++) {
         $('#zonghe').append("<img src='img/product/zonghe/"+i+".png' style='height: 200px; width: 200px; margin-top:20px;margin-bottom: 10px'>");
     }
 </script>
